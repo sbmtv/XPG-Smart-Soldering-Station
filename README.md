@@ -7,6 +7,9 @@ XPG Smart C470/C245/C210/T12 Soldering Station
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/%E8%93%9D.png)
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/%E9%BB%91.png)
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/%E7%82%AB%E5%BD%A9.png)
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/4.png)
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/3.png)
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/2.png)
 # XPG Smart Soldering Station User Manual
 
 ---
