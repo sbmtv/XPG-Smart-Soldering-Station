@@ -114,7 +114,7 @@ The main screen shows the following real-time information:
 ## 4. Settings Screen
 
 Tap the **Settings** button at the bottom of the main screen to enter the settings screen.
-
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/1%E8%AE%BE%E7%BD%AE.png)
 ### 4.1 Heater Cartridge Type
 
 - Tap the tip type button at the top left to cycle through: **T12 → C245 → C210 → C470 → Auto Detect**
@@ -153,7 +153,7 @@ Tap the **Settings** button at the bottom of the main screen to enter the settin
 ---
 
 ## 5. System Settings
-
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/2%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE.png)
 ### 5.1 PID Parameter Adjustment
 
 PID parameters affect the response speed and stability of temperature control. Normally no adjustment is needed.
@@ -191,7 +191,7 @@ PID parameters affect the response speed and stability of temperature control. N
 ---
 
 ## 6. Other Settings
-
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/3%E5%85%B6%E5%AE%83%E8%AE%BE%E7%BD%AE.png)
 ### 6.1 Background Color Theme
 
 - Tap the color button at the top right to cycle through 4 themes:
@@ -248,7 +248,7 @@ PID parameters affect the response speed and stability of temperature control. N
 ---
 
 ## 7. WiFi Settings
-
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/4wifi.png)
 ### 7.1 Scan & Connect
 
 1. Tap the **Scan** button to search for nearby WiFi hotspots
@@ -273,7 +273,7 @@ The screen displays real-time WiFi connection status:
 ---
 
 ## 8. Temperature Calibration
-
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/5%E6%A0%A1%E5%87%86.png)
 Temperature calibration corrects the heater cartridge's temperature reading deviation, ensuring the displayed temperature matches the actual temperature.
 
 > **Note**: Calibration requires an external reference thermometer. Incorrect calibration data can cause abnormal temperature control — please operate with care.
