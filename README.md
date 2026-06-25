@@ -484,5 +484,5 @@ After factory reset:
 | Safety Protections | Overcurrent / Over-temperature / Under-voltage / Tip-change |
 | Languages | Chinese / English |
 
-
+[BUG submission](https://github.com/sbmtv/XPG-Smart-Soldering-Station/issues/1)
 
