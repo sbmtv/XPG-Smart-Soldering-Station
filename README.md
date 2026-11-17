@@ -1,10 +1,17 @@
 [HOME](http://xpg.me/)               [TAOBAO](https://xpgt12.taobao.com/)                         [BUY](https://item.taobao.com/item.htm?id=1059072789792)
 
-On November 17, 2026/, an animated update icon was added, and the PID was optimized. It supports customizing and adding in English, Chinese, and other languages
-![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/7112b05b-7b96-4d77-a99e-58f1ea933789.png) 
 # XPG-Smart-Soldering-Station
 XPG Smart C470/C245/C210/T12 Soldering Station
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/%E4%B8%BB%E6%9D%BF%E9%80%8F%E6%98%8E%E5%9B%BE.png)
+
+On November 17, 2026/, an animated update icon was added, and the PID was optimized. It supports customizing and adding in English, Chinese, and other languages
+On November 17, 2026/, an industrial style theme was added
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/7112b05b-7b96-4d77-a99e-58f1ea933789.png) 
+
+
+
+
+
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/5d3be403-f461-4086-a91a-a28eec960fb8.png)
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/0%E4%B8%BB%E6%9D%BF%E4%B8%BB%E5%9B%BE%E9%80%8F%E6%98%8E.png)
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/%E6%B7%B1%E7%81%B0.png)
