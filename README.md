@@ -23,6 +23,10 @@ On November 17, 2026/, an industrial style theme was added
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/2.png)
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/1.7.2版本en.png)
 
+On November 17, 2026/, a new wireless UI was added
+![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20261028093812_503_8.jpg)
+![图片描述]([https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/1.7.2版本en.png](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/%E5%A4%A7%E6%95%B0%E6%98%BE%E7%89%88%E7%AB%96%E5%B1%8F.jpg))
+
 # XPG Smart Soldering Station User Manual
 
 ---
