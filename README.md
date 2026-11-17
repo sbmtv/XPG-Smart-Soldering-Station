@@ -1,4 +1,7 @@
 [HOME](http://xpg.me/)               [TAOBAO](https://xpgt12.taobao.com/)                         [BUY](https://item.taobao.com/item.htm?id=1059072789792)
+
+On November 17, 2026/, an animated update icon was added, and the PID was optimized. It supports customizing and adding in English, Chinese, and other languages
+ 
 # XPG-Smart-Soldering-Station
 XPG Smart C470/C245/C210/T12 Soldering Station
 ![图片描述](https://github.com/sbmtv/XPG-Smart-Soldering-Station/blob/main/img/%E4%B8%BB%E6%9D%BF%E9%80%8F%E6%98%8E%E5%9B%BE.png)
